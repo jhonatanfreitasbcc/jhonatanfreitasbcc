@@ -20,7 +20,7 @@
 
 <!-- Adicionando um GIF relacionado à programação estilo Matrix -->
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/l0HlybKpmuQekmyFg/giphy.gif" width="60%" alt="Matrix Mining Bitcoin GIF">
+  <img align="center" src="https://media.giphy.com/media/3ohs4Jif8X3cYavqNq/giphy.gif" width="60%" alt="Matrix Coding GIF">
 </div>
 
 &nbsp;
