@@ -1,6 +1,7 @@
 <div align="center">
-  <img align="center" width="54% !important" src="https://github-readme-streak-stats.herokuapp.com?user=jhonatanfreitasbcc&theme=onedark-duo&locale=pt_BR" />
-  <img align="center" width="35% !important"
+  <img align="center" width="54%" !important 
+    src="https://github-readme-streak-stats.herokuapp.com?user=jhonatanfreitasbcc&theme=onedark-duo&locale=pt_BR" />
+  <img align="center" width="35%" !important 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanfreitasbcc&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
 </div>
 
@@ -26,6 +27,3 @@
 
 <img align="center" style="object-fit: contain;" width="100%" 
   src="https://raw.githubusercontent.com/jhonatanfreitasbcc/jhonatanfreitasbcc/main/javascript-maneiro-oliginal.gif" />
-
-&nbsp;
-&nbsp;
