@@ -1,29 +1,39 @@
 <div align="center">
-  <img align="center" width="54%" !important 
-    src="https://github-readme-streak-stats.herokuapp.com?user=jhonatanfreitasbcc&theme=onedark-duo&locale=pt_BR" />
-  <img align="center" width="35%" !important 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanfreitasbcc&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
+  <!-- Título da apresentação -->
+  <h2>Desenvolvedor de Software | Apaixonado por Programação</h2>
+  <p>Explorando sempre novas linguagens e paradigmas para criar soluções inovadoras.</p>
+
+  <!-- Estatísticas e informações -->
+  <div style="display: flex; justify-content: center; gap: 30px;">
+    <!-- Linguagens mais usadas -->
+    <div>
+      <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanfreitasbcc&layout=compact&show_icons=true&theme=radical&locale=pt-br" />
+    </div>
+
+    <!-- Streak de contribuições -->
+    <div>
+      <img align="center" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanfreitasbcc&theme=radical&locale=pt_BR" />
+    </div>
+  </div>
+
+  <!-- Descrição pessoal -->
+  <p align="center" style="font-size: 18px; max-width: 800px; margin-top: 20px;">
+    Sou um desenvolvedor focado em <strong>Python</strong>, explorando a automação, análise de dados, desenvolvimento web e inteligência artificial.  
+    <br><br>
+    No futuro, planejo aprofundar meus conhecimentos em <strong>C, C++, Ruby</strong>, além de explorar novas tendências como <strong>Rust</strong> e <strong>Go</strong> para desenvolvimento de sistemas e performance.
+    <br><br>
+    Meu objetivo é criar software eficiente e escalável, sempre adotando boas práticas e buscando sempre inovação no mundo da tecnologia.
+  </p>
+
+  <!-- GIF animado relacionado a programação -->
+  <div align="center" style="margin-top: 40px;">
+    <img src="https://media.giphy.com/media/3oKIPkOQj1Jye9UyMO/giphy.gif" width="60%" alt="Coding Animation">
+  </div>
+
+  <!-- GitHub Link -->
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/jhonatanfreitasbcc" target="_blank" style="font-size: 20px; text-decoration: none; color: #f0f0f0; padding: 10px 20px; background-color: #333; border-radius: 8px;">
+      Visite meu GitHub
+    </a>
+  </div>
 </div>
-
-&nbsp;
-&nbsp;
-
-<p align="center">
-  Apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades em programação. Atualmente, foco no desenvolvimento com <strong>Python</strong>, explorando desde automação e análise de dados até desenvolvimento web e inteligência artificial.  
-  <br><br>
-  No futuro, pretendo expandir meu conhecimento para <strong>Ruby, C e C++</strong>, aprofundando-me na lógica de programação, desempenho e estrutura de dados para criar soluções cada vez mais eficientes e robustas.  
-  <br><br>
-  Meu objetivo é me tornar um desenvolvedor versátil, capaz de transitar entre diferentes tecnologias e paradigmas de programação, sempre buscando inovação e boas práticas no desenvolvimento de software.
-</p>
-
-&nbsp;
-
-<!-- Adicionando um GIF relacionado à programação -->
-<div align="center">
-  <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding GIF">
-</div>
-
-&nbsp;
-
-<img align="center" style="object-fit: contain;" width="100%" 
-  src="https://raw.githubusercontent.com/jhonatanfreitasbcc/jhonatanfreitasbcc/main/javascript-maneiro-oliginal.gif" />
