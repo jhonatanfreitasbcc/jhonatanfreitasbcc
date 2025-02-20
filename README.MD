@@ -1,6 +1,5 @@
 <div align="center">
-  <img align="center" width="54% !important" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=jhonatanfreitasbcc&theme=onedark-duo&locale=pt_BR" />
+  <img align="center" width="54% !important" src="https://github-readme-streak-stats.herokuapp.com?user=jhonatanfreitasbcc&theme=onedark-duo&locale=pt_BR" />
   <img align="center" width="35% !important"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanfreitasbcc&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
 </div>
@@ -18,9 +17,9 @@
 
 &nbsp;
 
-<!-- Adicionando um GIF relacionado à programação estilo Matrix -->
+<!-- Adicionando um GIF relacionado à programação -->
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/3ohs4Jif8X3cYavqNq/giphy.gif" width="60%" alt="Matrix Coding GIF">
+  <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding GIF">
 </div>
 
 &nbsp;
